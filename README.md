@@ -13,15 +13,15 @@ Aspiring **Systems & Infrastructure Engineer**, **building, automating and secur
 
 </div>
 
-## About Me
+## 👨‍💻 About Me
 
 - 🔭 **Building:** hands-on labs in **Systems, Networking, Automation, DevOps, DevSecOps, Cloud Computing**
-- 🌱 **Learning:** **MLOps**
+- 🌱 **Learning:** **MLOps** and **Ethical Hacking** in authorized lab environments
 - 🔍 **Always curious:** I love **exploring and learning new things**, and if it boots, breaks or blinks, I want to know why.
 - 🤝 **Open to collaborating on:** **Open-source** and **enterprise-oriented** infrastructure and automation projects.
 - 🎯 **Goal:** becoming a **multidisciplinary AdminSysNet, DevOps, DevSecOps and MLOps Engineer**.
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 Colored badges are tools I use hands-on. Grey badges are tools I am learning.
 
@@ -49,7 +49,7 @@ Colored badges are tools I use hands-on. Grey badges are tools I am learning.
 | **Serving & monitoring** (Learning) | ![FastAPI](https://img.shields.io/badge/FastAPI-3b4261?style=flat-square&logo=fastapi&logoColor=white) ![BentoML](https://img.shields.io/badge/BentoML-3b4261?style=flat-square&logo=bentoml&logoColor=white) ![Evidently AI](https://img.shields.io/badge/Evidently_AI-3b4261?style=flat-square) |
 | **Cloud ML & LLMOps** (Learning) | ![AWS SageMaker](https://img.shields.io/badge/SageMaker-3b4261?style=flat-square&logo=amazonsagemaker&logoColor=white) ![Vertex AI](https://img.shields.io/badge/Vertex_AI-3b4261?style=flat-square&logo=googlecloud&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-3b4261?style=flat-square&logo=huggingface&logoColor=white) |
 
-## Connect & Collaborate
+## 📫 Connect & Collaborate
 
 I am open to **open-source and engineering collaborations** in infrastructure automation, DevOps, DevSecOps, cloud-native systems and MLOps.
 
