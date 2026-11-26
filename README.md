@@ -5,7 +5,7 @@
   <img alt="Hi, I'm Angloma, nice to meet you!" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=7AA2F7&repeat=false&width=600&height=45&lines=Hi%2C+I%27m+Angloma%2C+nice+to+meet+you%21" align="absmiddle">
 </p>
 
-<img alt="Animated text: Systems and Network Administration, DevOps, DevSecOps, Cloud Computing, AI and MLOps" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1500&color=7AA2F7&center=true&vCenter=true&width=700&height=40&lines=Systems+%26+Network+Administration;DevOps+%7C+DevSecOps+%7C+Cloud+Computing;AI+%26+MLOps">
+<img alt="Animated text: Systems and Network Administrator, DevOps, DevSecOps, Cloud Computing, AI and MLOps" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1500&color=7AA2F7&center=true&vCenter=true&width=700&height=40&lines=Systems+%26+Network+Administrator;DevOps+%7C+DevSecOps+%7C+Cloud+Engineer;AI+%26+MLOps+Engineer">
 
 <br>
 
@@ -19,7 +19,7 @@ Aspiring **Systems & Infrastructure Engineer**, **building, automating and secur
 - 🌱 **Learning:** **MLOps** and **Ethical Hacking** in authorized lab environments
 - 🔍 **Always curious:** I love **exploring and learning new things**, and if it boots, breaks or blinks, I want to know why.
 - 🤝 **Open to collaborating on:** **Open-source** and **enterprise-oriented** infrastructure and automation projects.
-- 🎯 **Goal:** becoming a **multidisciplinary AdminSysNet, DevOps, DevSecOps and MLOps Engineer**.
+- 🎯 **Goal:** becoming a **multidisciplinary AdminSysNet, DevOps, DevSecOps, Cloud and MLOps Engineer**.
 
 ## 🛠️ Tech Stack
 
@@ -59,12 +59,4 @@ I am open to **open-source and engineering collaborations** in infrastructure au
 - [![GitLab](https://img.shields.io/badge/GitLab-Angloma__federico-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/Angloma_federico)
 - [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Anglomafederico2@gmail.com)
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:3d59a1,100:7aa2f7&height=80&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=80&section=footer">
-  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:3d59a1,100:7aa2f7&height=80&section=footer" width="100%">
-</picture>
-
-</div>
+---
